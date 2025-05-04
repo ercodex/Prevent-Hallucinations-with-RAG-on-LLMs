@@ -57,7 +57,7 @@ Even though we didn't mention it in the knowledge base, the invention year is tr
 ### XML and DTD
 
 Then we needed to define a DTD for our XML file so we don't make any mistakes while adding information to knowledge-base.  
-You can take a look at both XML and DTD file in this repo.
+You can take a look at both XML and DTD file in this repo. We also validate the XML according to DTD.
 
 ---
 

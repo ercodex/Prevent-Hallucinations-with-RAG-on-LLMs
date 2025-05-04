@@ -1,0 +1,63 @@
+<!DOCTYPE knowledge_base SYSTEM "knowledge_base.dtd">
+<knowledge_base>
+    <entry>
+        <id>1</id>
+        <text>The official language of Liechtenstein is German.</text>
+    </entry>
+    <entry>
+        <id>2</id>
+        <text>The largest city of Europe is Moscow, with a total of 12.68 million people.</text>
+    </entry>
+    <entry>
+        <id>3</id>
+        <text>Funafuti is the capital city of Tuvalu.</text>
+    </entry>
+    <entry>
+        <id>4</id>
+        <text>Children's day is celebrated in Turkey every year on April 23.</text>
+    </entry>
+    <entry>
+        <id>5</id>
+        <text>On April 15, 1865, Abraham Lincoln is shot in the head while watching a theater play. He died of his wounds the following day.</text>
+    </entry>
+    <entry>
+        <id>6</id>
+        <text>The Republic of Turkey was officially proclaimed on October 29, 1923, under Mustafa Kemal Atatürk's leadership.</text>
+    </entry>
+    <entry>
+        <id>7</id>
+        <text>The most commonly used spice in traditional Maldivian cuisine is cumin.</text>
+    </entry>
+    <entry>
+        <id>8</id>
+        <text>The most consumed beverage in medieval Europe was ale.</text>
+    </entry>
+    <entry>
+        <id>9</id>
+        <text>"Zeybek" is known as the traditional dance of Ege region.</text>
+    </entry>
+    <entry>
+        <id>10</id>
+        <text>The average surface temperature of Pluto is around 44 Kelvin.</text>
+    </entry>
+    <entry>
+        <id>11</id>
+        <text>The typical duration of a neuron's action potential is about 1 to 2 milliseconds.</text>
+    </entry>
+    <entry>
+        <id>12</id>
+        <text>Euler's number (also known as "e" in short) is approximately equal to 2.71828.</text>
+    </entry>
+    <entry>
+        <id>13</id>
+        <text>The first mechanical calculator was invented by Blaise Pascal.</text>
+    </entry>
+    <entry>
+        <id>14</id>
+        <text>Paper arrived in Europe during the 12th century.</text>
+    </entry>
+    <entry>
+        <id>15</id>
+        <text>The scientific paper named "Attention is all you need" is known as a huge milestone in AI field.</text>
+    </entry>
+</knowledge_base>

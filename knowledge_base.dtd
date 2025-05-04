@@ -1,0 +1,4 @@
+<!ELEMENT knowledge_base (entry+)>
+<!ELEMENT entry (id, text)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
